@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    background: #F9F9F9;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+p{
+    margin: 0;
+}
+h3{
+    margin: 0;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    
+}
+li{
+        list-style: none;
+}
+dl{
+    margin: 0;
+}
+dd{
+    margin: 0;
+}
+i{
+    font-style:normal;
+}
+em{
+    font-style:normal;
+}
+a{
+    text-decoration:none;
+    out-line: none;
+}
