@@ -295,7 +295,6 @@ import Refresh from './refresh'
             }
                 dd{
                 height: 140px;
-                width: 120px;
                 display: flex;
                 flex-direction:column;
                 justify-content: center;
@@ -333,7 +332,6 @@ import Refresh from './refresh'
             color: #666;
         }
             dd{
-            width: 120px;
             height: 150px;
             display: flex;
             flex-direction:column;

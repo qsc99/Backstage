@@ -21,6 +21,7 @@ import System from "./components/indext/system.vue"
 import Logonlog from "./components/indext/logonlog.vue"
 import Listofgoods from "./components/indext/listofgoods.vue"
 import Recovery from "./components/indext/recovery.vue"
+import Classification from "./components/indext/classification.vue"
 
 Vue.use(Router)
 
@@ -72,6 +73,14 @@ export default new Router({
       name: 'Recovery',
       components:{
         default : Recovery,
+        left : Commodity,
+      }
+    },
+    {
+      path: '/commodity/classification',
+      name: 'Classification',
+      components:{
+        default : Classification,
         left : Commodity,
       }
     },

@@ -14,91 +14,91 @@
                         <span class="active"> 2017-07-03 14:36:21</span>
                         <i class="active">183.14.135.1</i>
                         <p class="active">广东省深圳市</p>
-                        <em class="active">Firefox 45</em>
+                        <em>Firefox 45</em>
                     </dd>
                     <dd>
                         <span class="active"> 2017-07-03 14:36:21</span>
                         <i class="active">183.14.135.1</i>
                         <p class="active">广东省深圳市</p>
-                        <em class="active">Firefox 45</em>
+                        <em>Firefox 45</em>
                     </dd>
                     <dd>
                         <span class="active"> 2017-07-03 14:36:21</span>
                         <i class="active">183.14.135.1</i>
                         <p class="active">广东省深圳市</p>
-                        <em class="active">Firefox 45</em>
+                        <em>Firefox 45</em>
                     </dd>
                     <dd>
                         <span class="active"> 2017-07-03 14:36:21</span>
                         <i class="active">183.14.135.1</i>
                         <p class="active">广东省深圳市</p>
-                        <em class="active">Firefox 45</em>
+                        <em>Firefox 45</em>
                     </dd>
                     <dd>
                         <span class="active"> 2017-07-03 14:36:21</span>
                         <i class="active">183.14.135.1</i>
                         <p class="active">广东省深圳市</p>
-                        <em class="active">Firefox 45</em>
+                        <em>Firefox 45</em>
                     </dd>
                     <dd>
                         <span class="active"> 2017-07-03 14:36:21</span>
                         <i class="active">183.14.135.1</i>
                         <p class="active">广东省深圳市</p>
-                        <em class="active">Firefox 45</em>
+                        <em>Firefox 45</em>
                     </dd>
                     <dd>
                         <span class="active"> 2017-07-03 14:36:21</span>
                         <i class="active">183.14.135.1</i>
                         <p class="active">广东省深圳市</p>
-                        <em class="active">Firefox 45</em>
+                        <em>Firefox 45</em>
                     </dd>
                     <dd>
                         <span class="active"> 2017-07-03 14:36:21</span>
                         <i class="active">183.14.135.1</i>
                         <p class="active">广东省深圳市</p>
-                        <em class="active">Firefox 45</em>
+                        <em>Firefox 45</em>
                     </dd>
                     <dd>
                         <span class="active"> 2017-07-03 14:36:21</span>
                         <i class="active">183.14.135.1</i>
                         <p class="active">广东省深圳市</p>
-                        <em class="active">Firefox 45</em>
+                        <em>Firefox 45</em>
                     </dd>
                     <dd>
                         <span class="active"> 2017-07-03 14:36:21</span>
                         <i class="active">183.14.135.1</i>
                         <p class="active">广东省深圳市</p>
-                        <em class="active">Firefox 45</em>
+                        <em>Firefox 45</em>
                     </dd>
                     <dd>
                         <span class="active"> 2017-07-03 14:36:21</span>
                         <i class="active">183.14.135.1</i>
                         <p class="active">广东省深圳市</p>
-                        <em class="active">Firefox 45</em>
+                        <em>Firefox 45</em>
                     </dd>
                     <dd>
                         <span class="active"> 2017-07-03 14:36:21</span>
                         <i class="active">183.14.135.1</i>
                         <p class="active">广东省深圳市</p>
-                        <em class="active">Firefox 45</em>
+                        <em>Firefox 45</em>
                     </dd>
                     <dd>
                         <span class="active"> 2017-07-03 14:36:21</span>
                         <i class="active">183.14.135.1</i>
                         <p class="active">广东省深圳市</p>
-                        <em class="active">Firefox 45</em>
+                        <em>Firefox 45</em>
                     </dd>
                     <dd>
                         <span class="active"> 2017-07-03 14:36:21</span>
                         <i class="active">183.14.135.1</i>
                         <p class="active">广东省深圳市</p>
-                        <em class="active">Firefox 45</em>
+                        <em>Firefox 45</em>
                     </dd>
                     <dd>
                         <span class="active"> 2017-07-03 14:36:21</span>
                         <i class="active">183.14.135.1</i>
                         <p class="active">广东省深圳市</p>
-                        <em class="active">Firefox 45</em>
+                        <em>Firefox 45</em>
                     </dd>
                     <div class="block">
                         <el-pagination
@@ -128,7 +128,6 @@ import Refresh from './refresh'
     text-align: right;
     height: 30px;
     padding: 10px 0;
-    border-top: 1px solid #e4e4e4;
 }
 .journal{
     width: 90%;
