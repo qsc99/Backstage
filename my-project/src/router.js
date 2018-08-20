@@ -12,7 +12,8 @@ import Content from './components/list/content.vue'
 import Statistics from './components/list/statistics.vue'
 import Finance from './components/list/finance.vue'
 import Setup from './components/list/setup.vue'
-import Jurisdiction from './components/list/jurisdiction.vue' 
+import Jurisdiction from './components/list/jurisdiction.vue'
+import Commoditytype from "./components/indext/commoditytype.vue" 
  
 
 import Homepage from "./components/indext/homepage.vue"
@@ -81,6 +82,14 @@ export default new Router({
       name: 'Classification',
       components:{
         default : Classification,
+        left : Commodity,
+      }
+    },
+    {
+      path: '/commodity/commoditytype',
+      name: 'Commoditytype',
+      components:{
+        default : Commoditytype,
         left : Commodity,
       }
     },

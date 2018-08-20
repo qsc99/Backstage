@@ -5,7 +5,7 @@
         <router-link to="/commodity/recovery">• 商品回收站</router-link>
     <dt>商品配置</dt>
         <router-link to="/commodity/classification">• 商品分类</router-link>
-        <router-link to="/">• 商品类型</router-link>
+        <router-link to="/commodity/commoditytype">• 商品类型</router-link>
         <router-link to="/">• 品牌管理</router-link>
         <router-link to="/">• 图片库管理</router-link>
    </dl>
