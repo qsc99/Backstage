@@ -23,6 +23,7 @@ import Logonlog from "./components/indext/logonlog.vue"
 import Listofgoods from "./components/indext/listofgoods.vue"
 import Recovery from "./components/indext/recovery.vue"
 import Classification from "./components/indext/classification.vue"
+import Manage from "./components/indext/manage.vue"
 
 Vue.use(Router)
 
@@ -90,6 +91,14 @@ export default new Router({
       name: 'Commoditytype',
       components:{
         default : Commoditytype,
+        left : Commodity,
+      }
+    },
+    {
+      path: '/commodity/manage',
+      name: 'Manage',
+      components:{
+        default : Manage,
         left : Commodity,
       }
     },

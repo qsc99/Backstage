@@ -219,6 +219,7 @@ padding: 2% 4%;
             p{
                 height: 50px;
                 background: #f3f3f3;
+                border-bottom:1px solid #e4e4e4;
                 i{
                     display: block;
                     font: 16px/50px "微软雅黑";
