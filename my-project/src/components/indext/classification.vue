@@ -193,8 +193,10 @@ import Refresh from './refresh'
     }   
     .is-checked{
         width: 100% !important;
+            border-right: none !important;
     }
     .el-switch{
         width: 100% !important;
+            border-right: none !important;
     }
 </style>

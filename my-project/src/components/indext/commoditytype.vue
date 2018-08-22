@@ -129,6 +129,8 @@ import Refresh from './refresh'
             div:nth-child(5){
                 width: 21%;
                 border-right:1px solid #e4e4e4;
+                color: #44C8AE;
+
             }
             div:nth-child(6){
                 width: 18%;
